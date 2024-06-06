@@ -5,6 +5,7 @@ import Main from './components/Main'
 import About from './components/About'
 import Gallery from './components/Gallery'
 import Contact from './components/Contact'
+import Projects from './components/Projects'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Main />
       <About />
       <Gallery />
+      <Projects />
       <Contact />
     </>
   )
